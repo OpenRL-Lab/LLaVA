@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+fschat
+pydantic
+pydantic-settings
+openai
+httpx
+gunicorn
+redis
+jinja2
+Pillow
+
